@@ -8,4 +8,4 @@ Saya Surya Alfin Maoludin 2001521 mengerjakan LATIHAN 7
     
 ## Tampilan
 
-![tampilan](https://github.com/Alfinnnnn/LATIHAN7DPBO2022/blob/main/tampilan/lp7.mp4)
+![tampilan](https://github.com/Alfinnnnn/LATIHAN7DPBO2022/blob/main/tampilan/lp7.gif)
